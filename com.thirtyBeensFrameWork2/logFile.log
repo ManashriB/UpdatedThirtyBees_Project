@@ -1,0 +1,471 @@
+2021-08-22 01:09:41,816  INFO [main] TestBase:36 - browser initalizing
+2021-08-22 01:09:41,816  INFO [main] TestBase:19 - Reading the value of property browser
+2021-08-22 01:09:41,823  INFO [main] TestBase:23 - initializing the property file
+2021-08-22 01:09:41,823  INFO [main] TestBase:30 - property value found in the file with key asbrowserand the value is: chrome
+2021-08-22 01:09:41,824  INFO [main] TestBase:39 - user want to automate the chrome browser
+2021-08-24 12:03:46,750  INFO [main] TestBase:44 - browser initalizing
+2021-08-24 12:03:46,755  INFO [main] TestBase:27 - Reading the value of property browser
+2021-08-24 12:03:46,756  INFO [main] TestBase:31 - initializing the property file
+2021-08-24 12:03:46,759  INFO [main] TestBase:38 - property value found in the file with key asbrowserand the value is: chrome
+2021-08-24 12:03:46,760  INFO [main] TestBase:47 - user want to automate the chrome browser
+2021-08-24 12:13:29,164  INFO [main] TestBase:44 - browser initalizing
+2021-08-24 12:13:29,167  INFO [main] TestBase:27 - Reading the value of property browser
+2021-08-24 12:13:29,167  INFO [main] TestBase:31 - initializing the property file
+2021-08-24 12:13:29,168  INFO [main] TestBase:38 - property value found in the file with key asbrowserand the value is: chrome
+2021-08-24 12:13:29,169  INFO [main] TestBase:47 - user want to automate the chrome browser
+2021-08-24 12:23:50,372  INFO [main] TestBase:44 - browser initalizing
+2021-08-24 12:23:50,375  INFO [main] TestBase:27 - Reading the value of property browser
+2021-08-24 12:23:50,375  INFO [main] TestBase:31 - initializing the property file
+2021-08-24 12:23:50,376  INFO [main] TestBase:38 - property value found in the file with key asbrowserand the value is: chrome
+2021-08-24 12:23:50,376  INFO [main] TestBase:47 - user want to automate the chrome browser
+2021-08-24 12:25:00,931  INFO [main] TestBase:44 - browser initalizing
+2021-08-24 12:25:00,935  INFO [main] TestBase:27 - Reading the value of property browser
+2021-08-24 12:25:00,935  INFO [main] TestBase:31 - initializing the property file
+2021-08-24 12:25:00,936  INFO [main] TestBase:38 - property value found in the file with key asbrowserand the value is: chrome
+2021-08-24 12:25:00,938  INFO [main] TestBase:47 - user want to automate the chrome browser
+2021-08-24 12:30:15,889  INFO [main] TestBase:44 - browser initalizing
+2021-08-24 12:30:15,892  INFO [main] TestBase:27 - Reading the value of property browser
+2021-08-24 12:30:15,892  INFO [main] TestBase:31 - initializing the property file
+2021-08-24 12:30:15,893  INFO [main] TestBase:38 - property value found in the file with key asbrowserand the value is: chrome
+2021-08-24 12:30:15,893  INFO [main] TestBase:47 - user want to automate the chrome browser
+2021-08-24 12:32:03,570  INFO [main] TestBase:44 - browser initalizing
+2021-08-24 12:32:03,574  INFO [main] TestBase:27 - Reading the value of property browser
+2021-08-24 12:32:03,574  INFO [main] TestBase:31 - initializing the property file
+2021-08-24 12:32:03,575  INFO [main] TestBase:38 - property value found in the file with key asbrowserand the value is: chrome
+2021-08-24 12:32:03,576  INFO [main] TestBase:47 - user want to automate the chrome browser
+2021-08-24 12:32:07,175  INFO [main] TestBase:67 - lunching a application
+2021-08-24 12:32:07,176  INFO [main] TestBase:27 - Reading the value of property url
+2021-08-24 12:32:07,176  INFO [main] TestBase:31 - initializing the property file
+2021-08-24 12:32:07,179  INFO [main] TestBase:38 - property value found in the file with key asurland the value is: https://javabykiran.in/Other/thbees/
+2021-08-24 13:14:45,980  INFO [main] TestBase:44 - browser initalizing
+2021-08-24 13:14:45,980  INFO [main] TestBase:27 - Reading the value of property browser
+2021-08-24 13:14:45,980  INFO [main] TestBase:31 - initializing the property file
+2021-08-24 13:14:45,984  INFO [main] TestBase:38 - property value found in the file with key asbrowserand the value is: chrome
+2021-08-24 13:14:45,984  INFO [main] TestBase:47 - user want to automate the chrome browser
+2021-08-24 13:14:49,073  INFO [main] TestBase:67 - lunching a application
+2021-08-24 13:14:49,073  INFO [main] TestBase:27 - Reading the value of property url
+2021-08-24 13:14:49,074  INFO [main] TestBase:31 - initializing the property file
+2021-08-24 13:14:49,074  INFO [main] TestBase:38 - property value found in the file with key asurland the value is: https://javabykiran.in/Other/thbees/
+2021-08-24 13:18:45,740  INFO [main] TestBase:44 - browser initalizing
+2021-08-24 13:18:45,745  INFO [main] TestBase:27 - Reading the value of property browser
+2021-08-24 13:18:45,745  INFO [main] TestBase:31 - initializing the property file
+2021-08-24 13:18:45,746  INFO [main] TestBase:38 - property value found in the file with key asbrowserand the value is: chrome
+2021-08-24 13:18:45,747  INFO [main] TestBase:47 - user want to automate the chrome browser
+2021-08-24 13:18:49,156  INFO [main] TestBase:67 - lunching a application
+2021-08-24 13:18:49,157  INFO [main] TestBase:27 - Reading the value of property url
+2021-08-24 13:18:49,157  INFO [main] TestBase:31 - initializing the property file
+2021-08-24 13:18:49,158  INFO [main] TestBase:38 - property value found in the file with key asurland the value is: https://javabykiran.in/Other/thbees/
+2021-08-24 13:18:54,492  INFO [main] TestBase:27 - Reading the value of property url
+2021-08-24 13:18:54,493  INFO [main] TestBase:31 - initializing the property file
+2021-08-24 13:18:54,495  INFO [main] TestBase:38 - property value found in the file with key asurland the value is: https://javabykiran.in/Other/thbees/
+2021-08-24 13:20:54,594  INFO [main] TestBase:44 - browser initalizing
+2021-08-24 13:20:54,594  INFO [main] TestBase:27 - Reading the value of property browser
+2021-08-24 13:20:54,605  INFO [main] TestBase:31 - initializing the property file
+2021-08-24 13:20:54,606  INFO [main] TestBase:38 - property value found in the file with key asbrowserand the value is: chrome
+2021-08-24 13:20:54,606  INFO [main] TestBase:47 - user want to automate the chrome browser
+2021-08-24 13:20:57,353  INFO [main] TestBase:67 - lunching a application
+2021-08-24 13:20:57,354  INFO [main] TestBase:27 - Reading the value of property url
+2021-08-24 13:20:57,354  INFO [main] TestBase:31 - initializing the property file
+2021-08-24 13:20:57,356  INFO [main] TestBase:38 - property value found in the file with key asurland the value is: https://javabykiran.in/Other/thbees/
+2021-08-24 13:21:00,998  INFO [main] TestBase:27 - Reading the value of property url
+2021-08-24 13:21:00,999  INFO [main] TestBase:31 - initializing the property file
+2021-08-24 13:21:01,002  INFO [main] TestBase:38 - property value found in the file with key asurland the value is: https://javabykiran.in/Other/thbees/
+2021-08-24 13:21:38,174  INFO [main] TestBase:44 - browser initalizing
+2021-08-24 13:21:38,190  INFO [main] TestBase:27 - Reading the value of property browser
+2021-08-24 13:21:38,194  INFO [main] TestBase:31 - initializing the property file
+2021-08-24 13:21:38,194  INFO [main] TestBase:38 - property value found in the file with key asbrowserand the value is: chrome
+2021-08-24 13:21:38,195  INFO [main] TestBase:47 - user want to automate the chrome browser
+2021-08-24 13:21:41,111  INFO [main] TestBase:67 - lunching a application
+2021-08-24 13:21:41,111  INFO [main] TestBase:27 - Reading the value of property url
+2021-08-24 13:21:41,112  INFO [main] TestBase:31 - initializing the property file
+2021-08-24 13:21:41,112  INFO [main] TestBase:38 - property value found in the file with key asurland the value is: https://javabykiran.in/Other/thbees/
+2021-08-24 13:21:44,041  INFO [main] TestBase:27 - Reading the value of property url
+2021-08-24 13:21:44,043  INFO [main] TestBase:31 - initializing the property file
+2021-08-24 13:21:44,046  INFO [main] TestBase:38 - property value found in the file with key asurland the value is: https://javabykiran.in/Other/thbees/
+2021-08-24 13:23:11,125  INFO [main] TestBase:44 - browser initalizing
+2021-08-24 13:23:11,140  INFO [main] TestBase:27 - Reading the value of property browser
+2021-08-24 13:23:11,140  INFO [main] TestBase:31 - initializing the property file
+2021-08-24 13:23:11,142  INFO [main] TestBase:38 - property value found in the file with key asbrowserand the value is: chrome
+2021-08-24 13:23:11,143  INFO [main] TestBase:47 - user want to automate the chrome browser
+2021-08-24 13:23:13,987  INFO [main] TestBase:67 - lunching a application
+2021-08-24 13:23:13,988  INFO [main] TestBase:27 - Reading the value of property url
+2021-08-24 13:23:13,988  INFO [main] TestBase:31 - initializing the property file
+2021-08-24 13:23:13,989  INFO [main] TestBase:38 - property value found in the file with key asurland the value is: https://javabykiran.in/Other/thbees/
+2021-08-24 13:24:03,091  INFO [main] TestBase:44 - browser initalizing
+2021-08-24 13:24:03,091  INFO [main] TestBase:27 - Reading the value of property browser
+2021-08-24 13:24:03,091  INFO [main] TestBase:31 - initializing the property file
+2021-08-24 13:24:03,102  INFO [main] TestBase:38 - property value found in the file with key asbrowserand the value is: chrome
+2021-08-24 13:24:03,103  INFO [main] TestBase:47 - user want to automate the chrome browser
+2021-08-24 13:24:05,643  INFO [main] TestBase:67 - lunching a application
+2021-08-24 13:24:05,644  INFO [main] TestBase:27 - Reading the value of property url
+2021-08-24 13:24:05,644  INFO [main] TestBase:31 - initializing the property file
+2021-08-24 13:24:05,645  INFO [main] TestBase:38 - property value found in the file with key asurland the value is: https://javabykiran.in/Other/thbees/
+2021-08-24 13:24:28,205  INFO [main] TestBase:44 - browser initalizing
+2021-08-24 13:24:28,205  INFO [main] TestBase:27 - Reading the value of property browser
+2021-08-24 13:24:28,213  INFO [main] TestBase:31 - initializing the property file
+2021-08-24 13:24:28,213  INFO [main] TestBase:38 - property value found in the file with key asbrowserand the value is: chrome
+2021-08-24 13:24:28,214  INFO [main] TestBase:47 - user want to automate the chrome browser
+2021-08-24 13:24:31,304  INFO [main] TestBase:67 - lunching a application
+2021-08-24 13:24:31,304  INFO [main] TestBase:27 - Reading the value of property url
+2021-08-24 13:24:31,305  INFO [main] TestBase:31 - initializing the property file
+2021-08-24 13:24:31,305  INFO [main] TestBase:38 - property value found in the file with key asurland the value is: https://javabykiran.in/Other/thbees/
+2021-08-24 13:24:55,969  INFO [main] TestBase:44 - browser initalizing
+2021-08-24 13:24:55,969  INFO [main] TestBase:27 - Reading the value of property browser
+2021-08-24 13:24:55,969  INFO [main] TestBase:31 - initializing the property file
+2021-08-24 13:24:55,984  INFO [main] TestBase:38 - property value found in the file with key asbrowserand the value is: chrome
+2021-08-24 13:24:55,985  INFO [main] TestBase:47 - user want to automate the chrome browser
+2021-08-24 13:24:58,489  INFO [main] TestBase:67 - lunching a application
+2021-08-24 13:24:58,490  INFO [main] TestBase:27 - Reading the value of property url
+2021-08-24 13:24:58,490  INFO [main] TestBase:31 - initializing the property file
+2021-08-24 13:24:58,491  INFO [main] TestBase:38 - property value found in the file with key asurland the value is: https://javabykiran.in/Other/thbees/
+2021-08-24 13:38:34,568  INFO [main] TestBase:44 - browser initalizing
+2021-08-24 13:38:34,584  INFO [main] TestBase:27 - Reading the value of property browser
+2021-08-24 13:38:34,584  INFO [main] TestBase:31 - initializing the property file
+2021-08-24 13:38:34,589  INFO [main] TestBase:38 - property value found in the file with key asbrowserand the value is: chrome
+2021-08-24 13:38:34,589  INFO [main] TestBase:47 - user want to automate the chrome browser
+2021-08-24 13:38:37,486  INFO [main] TestBase:67 - lunching a application
+2021-08-24 13:38:37,486  INFO [main] TestBase:27 - Reading the value of property url
+2021-08-24 13:38:37,487  INFO [main] TestBase:31 - initializing the property file
+2021-08-24 13:38:37,487  INFO [main] TestBase:38 - property value found in the file with key asurland the value is: https://javabykiran.in/Other/thbees/
+2021-08-24 13:38:44,272  INFO [main] TestBase:27 - Reading the value of property url
+2021-08-24 13:38:44,272  INFO [main] TestBase:31 - initializing the property file
+2021-08-24 13:38:44,273  INFO [main] TestBase:38 - property value found in the file with key asurland the value is: https://javabykiran.in/Other/thbees/
+2021-08-24 13:43:08,657  INFO [main] TestBase:44 - browser initalizing
+2021-08-24 13:43:08,657  INFO [main] TestBase:27 - Reading the value of property browser
+2021-08-24 13:43:08,657  INFO [main] TestBase:31 - initializing the property file
+2021-08-24 13:43:08,664  INFO [main] TestBase:38 - property value found in the file with key asbrowserand the value is: chrome
+2021-08-24 13:43:08,665  INFO [main] TestBase:47 - user want to automate the chrome browser
+2021-08-24 13:43:11,384  INFO [main] TestBase:67 - lunching a application
+2021-08-24 13:43:11,384  INFO [main] TestBase:27 - Reading the value of property url
+2021-08-24 13:43:11,385  INFO [main] TestBase:31 - initializing the property file
+2021-08-24 13:43:11,386  INFO [main] TestBase:38 - property value found in the file with key asurland the value is: https://javabykiran.in/Other/thbees/
+2021-08-24 13:43:17,908  INFO [main] TestBase:27 - Reading the value of property url
+2021-08-24 13:43:17,909  INFO [main] TestBase:31 - initializing the property file
+2021-08-24 13:43:17,909  INFO [main] TestBase:38 - property value found in the file with key asurland the value is: https://javabykiran.in/Other/thbees/
+2021-08-24 13:51:19,559  INFO [main] TestBase:44 - browser initalizing
+2021-08-24 13:51:19,559  INFO [main] TestBase:27 - Reading the value of property browser
+2021-08-24 13:51:19,559  INFO [main] TestBase:31 - initializing the property file
+2021-08-24 13:51:19,569  INFO [main] TestBase:38 - property value found in the file with key asbrowserand the value is: chrome
+2021-08-24 13:51:19,569  INFO [main] TestBase:47 - user want to automate the chrome browser
+2021-08-24 13:51:22,499  INFO [main] TestBase:67 - lunching a application
+2021-08-24 13:51:22,499  INFO [main] TestBase:27 - Reading the value of property url
+2021-08-24 13:51:22,499  INFO [main] TestBase:31 - initializing the property file
+2021-08-24 13:51:22,499  INFO [main] TestBase:38 - property value found in the file with key asurland the value is: https://javabykiran.in/Other/thbees/
+2021-08-24 13:51:25,672  INFO [main] TestBase:27 - Reading the value of property url
+2021-08-24 13:51:25,672  INFO [main] TestBase:31 - initializing the property file
+2021-08-24 13:51:25,679  INFO [main] TestBase:38 - property value found in the file with key asurland the value is: https://javabykiran.in/Other/thbees/
+2021-08-24 13:52:39,371  INFO [main] TestBase:44 - browser initalizing
+2021-08-24 13:52:39,371  INFO [main] TestBase:27 - Reading the value of property browser
+2021-08-24 13:52:39,371  INFO [main] TestBase:31 - initializing the property file
+2021-08-24 13:52:39,380  INFO [main] TestBase:38 - property value found in the file with key asbrowserand the value is: chrome
+2021-08-24 13:52:39,381  INFO [main] TestBase:47 - user want to automate the chrome browser
+2021-08-24 13:52:42,247  INFO [main] TestBase:67 - lunching a application
+2021-08-24 13:52:42,247  INFO [main] TestBase:27 - Reading the value of property url
+2021-08-24 13:52:42,253  INFO [main] TestBase:31 - initializing the property file
+2021-08-24 13:52:42,253  INFO [main] TestBase:38 - property value found in the file with key asurland the value is: https://javabykiran.in/Other/thbees/
+2021-08-24 13:52:44,408  INFO [main] TestBase:27 - Reading the value of property url
+2021-08-24 13:52:44,408  INFO [main] TestBase:31 - initializing the property file
+2021-08-24 13:52:44,409  INFO [main] TestBase:38 - property value found in the file with key asurland the value is: https://javabykiran.in/Other/thbees/
+2021-08-24 13:59:11,285  INFO [main] TestBase:44 - browser initalizing
+2021-08-24 13:59:11,285  INFO [main] TestBase:27 - Reading the value of property browser
+2021-08-24 13:59:11,292  INFO [main] TestBase:31 - initializing the property file
+2021-08-24 13:59:11,292  INFO [main] TestBase:38 - property value found in the file with key asbrowserand the value is: chrome
+2021-08-24 13:59:11,292  INFO [main] TestBase:47 - user want to automate the chrome browser
+2021-08-24 13:59:14,199  INFO [main] TestBase:67 - lunching a application
+2021-08-24 13:59:14,199  INFO [main] TestBase:27 - Reading the value of property url
+2021-08-24 13:59:14,199  INFO [main] TestBase:31 - initializing the property file
+2021-08-24 13:59:14,199  INFO [main] TestBase:38 - property value found in the file with key asurland the value is: https://javabykiran.in/Other/thbees/
+2021-08-24 13:59:52,153  INFO [main] TestBase:44 - browser initalizing
+2021-08-24 13:59:52,161  INFO [main] TestBase:27 - Reading the value of property browser
+2021-08-24 13:59:52,162  INFO [main] TestBase:31 - initializing the property file
+2021-08-24 13:59:52,162  INFO [main] TestBase:38 - property value found in the file with key asbrowserand the value is: chrome
+2021-08-24 13:59:52,162  INFO [main] TestBase:47 - user want to automate the chrome browser
+2021-08-24 13:59:54,829  INFO [main] TestBase:67 - lunching a application
+2021-08-24 13:59:54,829  INFO [main] TestBase:27 - Reading the value of property url
+2021-08-24 13:59:54,829  INFO [main] TestBase:31 - initializing the property file
+2021-08-24 13:59:54,829  INFO [main] TestBase:38 - property value found in the file with key asurland the value is: https://javabykiran.in/Other/thbees/
+2021-08-24 13:59:57,509  INFO [main] TestBase:27 - Reading the value of property url
+2021-08-24 13:59:57,509  INFO [main] TestBase:31 - initializing the property file
+2021-08-24 13:59:57,510  INFO [main] TestBase:38 - property value found in the file with key asurland the value is: https://javabykiran.in/Other/thbees/
+2021-08-24 15:00:33,576  INFO [main] TestBase:44 - browser initalizing
+2021-08-24 15:00:33,576  INFO [main] TestBase:27 - Reading the value of property browser
+2021-08-24 15:00:33,576  INFO [main] TestBase:31 - initializing the property file
+2021-08-24 15:00:33,588  INFO [main] TestBase:38 - property value found in the file with key asbrowserand the value is: chrome
+2021-08-24 15:00:33,589  INFO [main] TestBase:47 - user want to automate the chrome browser
+2021-08-24 15:00:36,855  INFO [main] TestBase:67 - lunching a application
+2021-08-24 15:00:36,855  INFO [main] TestBase:27 - Reading the value of property url
+2021-08-24 15:00:36,857  INFO [main] TestBase:31 - initializing the property file
+2021-08-24 15:00:36,857  INFO [main] TestBase:38 - property value found in the file with key asurland the value is: https://javabykiran.in/Other/thbees/
+2021-08-24 15:03:47,140  INFO [main] TestBase:44 - browser initalizing
+2021-08-24 15:03:47,140  INFO [main] TestBase:27 - Reading the value of property browser
+2021-08-24 15:03:47,140  INFO [main] TestBase:31 - initializing the property file
+2021-08-24 15:03:47,147  INFO [main] TestBase:38 - property value found in the file with key asbrowserand the value is: chrome
+2021-08-24 15:03:47,148  INFO [main] TestBase:47 - user want to automate the chrome browser
+2021-08-24 15:03:50,011  INFO [main] TestBase:67 - lunching a application
+2021-08-24 15:03:50,011  INFO [main] TestBase:27 - Reading the value of property url
+2021-08-24 15:03:50,011  INFO [main] TestBase:31 - initializing the property file
+2021-08-24 15:03:50,019  INFO [main] TestBase:38 - property value found in the file with key asurland the value is: https://javabykiran.in/Other/thbees/
+2021-08-24 15:14:08,915  INFO [main] TestBase:44 - browser initalizing
+2021-08-24 15:14:08,930  INFO [main] TestBase:27 - Reading the value of property browser
+2021-08-24 15:14:08,930  INFO [main] TestBase:31 - initializing the property file
+2021-08-24 15:14:08,933  INFO [main] TestBase:38 - property value found in the file with key asbrowserand the value is: chrome
+2021-08-24 15:14:08,933  INFO [main] TestBase:47 - user want to automate the chrome browser
+2021-08-24 15:14:11,697  INFO [main] TestBase:67 - lunching a application
+2021-08-24 15:14:11,698  INFO [main] TestBase:27 - Reading the value of property url
+2021-08-24 15:14:11,699  INFO [main] TestBase:31 - initializing the property file
+2021-08-24 15:14:11,699  INFO [main] TestBase:38 - property value found in the file with key asurland the value is: https://javabykiran.in/Other/thbees/
+2021-08-24 15:14:17,244  INFO [main] TestBase:27 - Reading the value of property url
+2021-08-24 15:14:17,252  INFO [main] TestBase:31 - initializing the property file
+2021-08-24 15:14:17,252  INFO [main] TestBase:38 - property value found in the file with key asurland the value is: https://javabykiran.in/Other/thbees/
+2021-08-24 20:55:46,494  INFO [main] TestBase:44 - browser initalizing
+2021-08-24 20:55:46,494  INFO [main] TestBase:27 - Reading the value of property browser
+2021-08-24 20:55:46,494  INFO [main] TestBase:31 - initializing the property file
+2021-08-24 20:55:46,499  INFO [main] TestBase:38 - property value found in the file with key asbrowserand the value is: chrome
+2021-08-24 20:55:46,499  INFO [main] TestBase:47 - user want to automate the chrome browser
+2021-08-24 20:55:50,054  INFO [main] TestBase:67 - lunching a application
+2021-08-24 20:55:50,054  INFO [main] TestBase:27 - Reading the value of property url
+2021-08-24 20:55:50,054  INFO [main] TestBase:31 - initializing the property file
+2021-08-24 20:55:50,060  INFO [main] TestBase:38 - property value found in the file with key asurland the value is: https://javabykiran.in/Other/thbees/
+2021-08-24 20:55:53,870  INFO [main] TestBase:27 - Reading the value of property url
+2021-08-24 20:55:53,870  INFO [main] TestBase:31 - initializing the property file
+2021-08-24 20:55:53,873  INFO [main] TestBase:38 - property value found in the file with key asurland the value is: https://javabykiran.in/Other/thbees/
+2021-08-24 20:59:23,215  INFO [main] TestBase:44 - browser initalizing
+2021-08-24 20:59:23,215  INFO [main] TestBase:27 - Reading the value of property browser
+2021-08-24 20:59:23,215  INFO [main] TestBase:31 - initializing the property file
+2021-08-24 20:59:23,229  INFO [main] TestBase:38 - property value found in the file with key asbrowserand the value is: chrome
+2021-08-24 20:59:23,230  INFO [main] TestBase:47 - user want to automate the chrome browser
+2021-08-24 20:59:25,915  INFO [main] TestBase:67 - lunching a application
+2021-08-24 20:59:25,923  INFO [main] TestBase:27 - Reading the value of property url
+2021-08-24 20:59:25,924  INFO [main] TestBase:31 - initializing the property file
+2021-08-24 20:59:25,924  INFO [main] TestBase:38 - property value found in the file with key asurland the value is: https://javabykiran.in/Other/thbees/
+2021-08-24 20:59:29,560  INFO [main] TestBase:27 - Reading the value of property url
+2021-08-24 20:59:29,560  INFO [main] TestBase:31 - initializing the property file
+2021-08-24 20:59:29,563  INFO [main] TestBase:38 - property value found in the file with key asurland the value is: https://javabykiran.in/Other/thbees/
+2021-08-24 21:06:56,960  INFO [main] TestBase:44 - browser initalizing
+2021-08-24 21:06:56,960  INFO [main] TestBase:27 - Reading the value of property browser
+2021-08-24 21:06:56,960  INFO [main] TestBase:31 - initializing the property file
+2021-08-24 21:06:56,963  INFO [main] TestBase:38 - property value found in the file with key asbrowserand the value is: chrome
+2021-08-24 21:06:56,963  INFO [main] TestBase:47 - user want to automate the chrome browser
+2021-08-24 21:06:59,700  INFO [main] TestBase:67 - lunching a application
+2021-08-24 21:06:59,700  INFO [main] TestBase:27 - Reading the value of property url
+2021-08-24 21:06:59,700  INFO [main] TestBase:31 - initializing the property file
+2021-08-24 21:06:59,700  INFO [main] TestBase:38 - property value found in the file with key asurland the value is: https://javabykiran.in/Other/thbees/
+2021-08-24 21:07:23,371  INFO [main] TestBase:44 - browser initalizing
+2021-08-24 21:07:23,371  INFO [main] TestBase:27 - Reading the value of property browser
+2021-08-24 21:07:23,376  INFO [main] TestBase:31 - initializing the property file
+2021-08-24 21:07:23,376  INFO [main] TestBase:38 - property value found in the file with key asbrowserand the value is: chrome
+2021-08-24 21:07:23,376  INFO [main] TestBase:47 - user want to automate the chrome browser
+2021-08-24 21:07:25,953  INFO [main] TestBase:67 - lunching a application
+2021-08-24 21:07:25,953  INFO [main] TestBase:27 - Reading the value of property url
+2021-08-24 21:07:25,959  INFO [main] TestBase:31 - initializing the property file
+2021-08-24 21:07:25,960  INFO [main] TestBase:38 - property value found in the file with key asurland the value is: https://javabykiran.in/Other/thbees/
+2021-08-24 21:07:28,110  INFO [main] TestBase:27 - Reading the value of property url
+2021-08-24 21:07:28,110  INFO [main] TestBase:31 - initializing the property file
+2021-08-24 21:07:28,110  INFO [main] TestBase:38 - property value found in the file with key asurland the value is: https://javabykiran.in/Other/thbees/
+2021-08-24 22:27:21,009  INFO [main] TestBase:44 - browser initalizing
+2021-08-24 22:27:21,012  INFO [main] TestBase:27 - Reading the value of property browser
+2021-08-24 22:27:21,012  INFO [main] TestBase:31 - initializing the property file
+2021-08-24 22:27:21,013  INFO [main] TestBase:38 - property value found in the file with key asbrowserand the value is: chrome
+2021-08-24 22:27:21,013  INFO [main] TestBase:47 - user want to automate the chrome browser
+2021-08-24 22:27:24,629  INFO [main] TestBase:67 - lunching a application
+2021-08-24 22:27:24,629  INFO [main] TestBase:27 - Reading the value of property url
+2021-08-24 22:27:24,630  INFO [main] TestBase:31 - initializing the property file
+2021-08-24 22:27:24,630  INFO [main] TestBase:38 - property value found in the file with key asurland the value is: https://javabykiran.in/Other/thbees/
+2021-08-24 22:27:31,777  INFO [main] TestBase:27 - Reading the value of property url
+2021-08-24 22:27:31,778  INFO [main] TestBase:31 - initializing the property file
+2021-08-24 22:27:31,779  INFO [main] TestBase:38 - property value found in the file with key asurland the value is: https://javabykiran.in/Other/thbees/
+2021-08-24 23:45:33,300  INFO [main] TestBase:56 - browser initalizing
+2021-08-24 23:45:33,300  INFO [main] TestBase:31 - Reading the value of property browser
+2021-08-24 23:45:33,300  INFO [main] TestBase:35 - initializing the property file
+2021-08-24 23:45:33,308  INFO [main] TestBase:42 - property value found in the file with key asbrowserand the value is: chrome
+2021-08-24 23:45:33,308  INFO [main] TestBase:59 - user want to automate the chrome browser
+2021-08-24 23:45:36,437  INFO [main] TestBase:79 - lunching a application
+2021-08-24 23:45:36,437  INFO [main] TestBase:31 - Reading the value of property url
+2021-08-24 23:45:36,437  INFO [main] TestBase:35 - initializing the property file
+2021-08-24 23:45:36,437  INFO [main] TestBase:42 - property value found in the file with key asurland the value is: https://javabykiran.in/Other/thbees/
+2021-08-24 23:45:40,622  INFO [main] TestBase:31 - Reading the value of property url
+2021-08-24 23:45:40,622  INFO [main] TestBase:35 - initializing the property file
+2021-08-24 23:45:40,623  INFO [main] TestBase:42 - property value found in the file with key asurland the value is: https://javabykiran.in/Other/thbees/
+2021-08-24 23:56:28,899  INFO [main] TestBase:56 - browser initalizing
+2021-08-24 23:56:28,899  INFO [main] TestBase:31 - Reading the value of property browser
+2021-08-24 23:56:28,906  INFO [main] TestBase:35 - initializing the property file
+2021-08-24 23:56:28,907  INFO [main] TestBase:42 - property value found in the file with key asbrowserand the value is: chrome
+2021-08-24 23:56:28,907  INFO [main] TestBase:59 - user want to automate the chrome browser
+2021-08-24 23:56:31,945  INFO [main] TestBase:79 - lunching a application
+2021-08-24 23:56:31,945  INFO [main] TestBase:31 - Reading the value of property url
+2021-08-24 23:56:31,949  INFO [main] TestBase:35 - initializing the property file
+2021-08-24 23:56:31,950  INFO [main] TestBase:42 - property value found in the file with key asurland the value is: https://javabykiran.in/Other/thbees/
+2021-08-24 23:56:36,194  INFO [main] TestBase:31 - Reading the value of property url
+2021-08-24 23:56:36,194  INFO [main] TestBase:35 - initializing the property file
+2021-08-24 23:56:36,197  INFO [main] TestBase:42 - property value found in the file with key asurland the value is: https://javabykiran.in/Other/thbees/
+2021-08-24 23:59:50,613  INFO [main] TestBase:56 - browser initalizing
+2021-08-24 23:59:50,613  INFO [main] TestBase:31 - Reading the value of property browser
+2021-08-24 23:59:50,613  INFO [main] TestBase:35 - initializing the property file
+2021-08-24 23:59:50,625  INFO [main] TestBase:42 - property value found in the file with key asbrowserand the value is: chrome
+2021-08-24 23:59:50,625  INFO [main] TestBase:59 - user want to automate the chrome browser
+2021-08-24 23:59:53,290  INFO [main] TestBase:79 - lunching a application
+2021-08-24 23:59:53,290  INFO [main] TestBase:31 - Reading the value of property url
+2021-08-24 23:59:53,297  INFO [main] TestBase:35 - initializing the property file
+2021-08-24 23:59:53,297  INFO [main] TestBase:42 - property value found in the file with key asurland the value is: https://javabykiran.in/Other/thbees/
+2021-08-24 23:59:57,454  INFO [main] TestBase:31 - Reading the value of property url
+2021-08-24 23:59:57,462  INFO [main] TestBase:35 - initializing the property file
+2021-08-24 23:59:57,462  INFO [main] TestBase:42 - property value found in the file with key asurland the value is: https://javabykiran.in/Other/thbees/
+2021-08-25 00:01:08,396  INFO [main] TestBase:56 - browser initalizing
+2021-08-25 00:01:08,406  INFO [main] TestBase:31 - Reading the value of property browser
+2021-08-25 00:01:08,407  INFO [main] TestBase:35 - initializing the property file
+2021-08-25 00:01:08,407  INFO [main] TestBase:42 - property value found in the file with key asbrowserand the value is: chrome
+2021-08-25 00:01:08,408  INFO [main] TestBase:59 - user want to automate the chrome browser
+2021-08-25 00:01:11,213  INFO [main] TestBase:79 - lunching a application
+2021-08-25 00:01:11,213  INFO [main] TestBase:31 - Reading the value of property url
+2021-08-25 00:01:11,214  INFO [main] TestBase:35 - initializing the property file
+2021-08-25 00:01:11,217  INFO [main] TestBase:42 - property value found in the file with key asurland the value is: https://javabykiran.in/Other/thbees/
+2021-08-25 00:01:15,546  INFO [main] TestBase:31 - Reading the value of property url
+2021-08-25 00:01:15,546  INFO [main] TestBase:35 - initializing the property file
+2021-08-25 00:01:15,549  INFO [main] TestBase:42 - property value found in the file with key asurland the value is: https://javabykiran.in/Other/thbees/
+2021-08-25 00:04:48,447  INFO [main] TestBase:56 - browser initalizing
+2021-08-25 00:04:48,447  INFO [main] TestBase:31 - Reading the value of property browser
+2021-08-25 00:04:48,447  INFO [main] TestBase:35 - initializing the property file
+2021-08-25 00:04:48,457  INFO [main] TestBase:42 - property value found in the file with key asbrowserand the value is: chrome
+2021-08-25 00:04:48,457  INFO [main] TestBase:59 - user want to automate the chrome browser
+2021-08-25 00:04:51,062  INFO [main] TestBase:79 - lunching a application
+2021-08-25 00:04:51,063  INFO [main] TestBase:31 - Reading the value of property url
+2021-08-25 00:04:51,063  INFO [main] TestBase:35 - initializing the property file
+2021-08-25 00:04:51,063  INFO [main] TestBase:42 - property value found in the file with key asurland the value is: https://javabykiran.in/Other/thbees/
+2021-08-25 00:04:55,615  INFO [main] TestBase:31 - Reading the value of property url
+2021-08-25 00:04:55,617  INFO [main] TestBase:35 - initializing the property file
+2021-08-25 00:04:55,620  INFO [main] TestBase:42 - property value found in the file with key asurland the value is: https://javabykiran.in/Other/thbees/
+2021-08-25 00:09:55,116  INFO [main] TestBase:56 - browser initalizing
+2021-08-25 00:09:55,116  INFO [main] TestBase:31 - Reading the value of property browser
+2021-08-25 00:09:55,116  INFO [main] TestBase:35 - initializing the property file
+2021-08-25 00:09:55,116  INFO [main] TestBase:42 - property value found in the file with key asbrowserand the value is: chrome
+2021-08-25 00:09:55,116  INFO [main] TestBase:59 - user want to automate the chrome browser
+2021-08-25 00:09:57,715  INFO [main] TestBase:79 - lunching a application
+2021-08-25 00:09:57,716  INFO [main] TestBase:31 - Reading the value of property url
+2021-08-25 00:09:57,716  INFO [main] TestBase:35 - initializing the property file
+2021-08-25 00:09:57,717  INFO [main] TestBase:42 - property value found in the file with key asurland the value is: https://javabykiran.in/Other/thbees/
+2021-08-25 00:10:02,169  INFO [main] TestBase:31 - Reading the value of property url
+2021-08-25 00:10:02,170  INFO [main] TestBase:35 - initializing the property file
+2021-08-25 00:10:02,171  INFO [main] TestBase:42 - property value found in the file with key asurland the value is: https://javabykiran.in/Other/thbees/
+2021-08-25 00:10:08,637  INFO [main] TestBase:56 - browser initalizing
+2021-08-25 00:10:08,638  INFO [main] TestBase:31 - Reading the value of property browser
+2021-08-25 00:10:08,638  INFO [main] TestBase:35 - initializing the property file
+2021-08-25 00:10:08,638  INFO [main] TestBase:42 - property value found in the file with key asbrowserand the value is: chrome
+2021-08-25 00:10:08,639  INFO [main] TestBase:59 - user want to automate the chrome browser
+2021-08-25 00:10:10,325  INFO [main] TestBase:79 - lunching a application
+2021-08-25 00:10:10,325  INFO [main] TestBase:31 - Reading the value of property url
+2021-08-25 00:10:10,325  INFO [main] TestBase:35 - initializing the property file
+2021-08-25 00:10:10,326  INFO [main] TestBase:42 - property value found in the file with key asurland the value is: https://javabykiran.in/Other/thbees/
+2021-08-25 00:10:14,845  INFO [main] TestBase:31 - Reading the value of property url
+2021-08-25 00:10:14,845  INFO [main] TestBase:35 - initializing the property file
+2021-08-25 00:10:14,846  INFO [main] TestBase:42 - property value found in the file with key asurland the value is: https://javabykiran.in/Other/thbees/
+2021-08-25 00:37:13,770  INFO [main] TestBase:45 - suit is ready to start execution
+2021-08-25 00:37:14,267  INFO [main] TestBase:56 - browser initalizing
+2021-08-25 00:37:14,267  INFO [main] TestBase:31 - Reading the value of property browser
+2021-08-25 00:37:14,267  INFO [main] TestBase:35 - initializing the property file
+2021-08-25 00:37:14,267  INFO [main] TestBase:42 - property value found in the file with key asbrowserand the value is: chrome
+2021-08-25 00:37:14,267  INFO [main] TestBase:59 - user want to automate the chrome browser
+2021-08-25 00:37:17,208  INFO [main] TestBase:79 - lunching a application
+2021-08-25 00:37:17,209  INFO [main] TestBase:31 - Reading the value of property url
+2021-08-25 00:37:17,210  INFO [main] TestBase:35 - initializing the property file
+2021-08-25 00:37:17,210  INFO [main] TestBase:42 - property value found in the file with key asurland the value is: https://javabykiran.in/Other/thbees/
+2021-08-25 00:37:20,699  INFO [main] TestBase:31 - Reading the value of property url
+2021-08-25 00:37:20,700  INFO [main] TestBase:35 - initializing the property file
+2021-08-25 00:37:20,701  INFO [main] TestBase:42 - property value found in the file with key asurland the value is: https://javabykiran.in/Other/thbees/
+2021-08-25 00:37:20,748  INFO [main] TestBase:13 - test case started with executionverifyMouseHoverFunctionalityOn_StoreInfoCols
+2021-08-25 00:37:29,473  INFO [main] TestBase:24 - test case failed with executionverifyMouseHoverFunctionalityOn_StoreInfoCols
+2021-08-25 00:37:29,474  INFO [main] TestBase:86 - user want to scrrenshot of fail test case
+2021-08-25 00:37:29,656  INFO [main] TestBase:98 - screenshot save into project directory
+2021-08-25 00:37:30,244  INFO [main] TestBase:51 - suit is finish sucessfully
+2021-08-25 00:38:36,732  INFO [main] TestBase:45 - suit is ready to start execution
+2021-08-25 00:38:37,149  INFO [main] TestBase:56 - browser initalizing
+2021-08-25 00:38:37,149  INFO [main] TestBase:31 - Reading the value of property browser
+2021-08-25 00:38:37,149  INFO [main] TestBase:35 - initializing the property file
+2021-08-25 00:38:37,149  INFO [main] TestBase:42 - property value found in the file with key asbrowserand the value is: chrome
+2021-08-25 00:38:37,149  INFO [main] TestBase:59 - user want to automate the chrome browser
+2021-08-25 00:38:39,783  INFO [main] TestBase:79 - lunching a application
+2021-08-25 00:38:39,784  INFO [main] TestBase:31 - Reading the value of property url
+2021-08-25 00:38:39,784  INFO [main] TestBase:35 - initializing the property file
+2021-08-25 00:38:39,785  INFO [main] TestBase:42 - property value found in the file with key asurland the value is: https://javabykiran.in/Other/thbees/
+2021-08-25 00:38:44,377  INFO [main] TestBase:31 - Reading the value of property url
+2021-08-25 00:38:44,377  INFO [main] TestBase:35 - initializing the property file
+2021-08-25 00:38:44,378  INFO [main] TestBase:42 - property value found in the file with key asurland the value is: https://javabykiran.in/Other/thbees/
+2021-08-25 00:38:44,427  INFO [main] TestBase:13 - test case started with executionverifyMouseHoverFunctionalityOn_StoreInfoCols
+2021-08-25 00:38:53,130  INFO [main] TestBase:24 - test case failed with executionverifyMouseHoverFunctionalityOn_StoreInfoCols
+2021-08-25 00:38:53,130  INFO [main] TestBase:86 - user want to scrrenshot of fail test case
+2021-08-25 00:38:53,295  INFO [main] TestBase:98 - screenshot save into project directory
+2021-08-25 00:38:53,862  INFO [main] TestBase:51 - suit is finish sucessfully
+2021-08-25 00:43:23,551  INFO [main] TestBase:45 - suit is ready to start execution
+2021-08-25 00:43:23,951  INFO [main] TestBase:56 - browser initalizing
+2021-08-25 00:43:23,951  INFO [main] TestBase:31 - Reading the value of property browser
+2021-08-25 00:43:23,951  INFO [main] TestBase:35 - initializing the property file
+2021-08-25 00:43:23,967  INFO [main] TestBase:42 - property value found in the file with key asbrowserand the value is: chrome
+2021-08-25 00:43:23,967  INFO [main] TestBase:59 - user want to automate the chrome browser
+2021-08-25 00:43:26,477  INFO [main] TestBase:79 - lunching a application
+2021-08-25 00:43:26,478  INFO [main] TestBase:31 - Reading the value of property url
+2021-08-25 00:43:26,478  INFO [main] TestBase:35 - initializing the property file
+2021-08-25 00:43:26,479  INFO [main] TestBase:42 - property value found in the file with key asurland the value is: https://javabykiran.in/Other/thbees/
+2021-08-25 00:43:30,240  INFO [main] TestBase:31 - Reading the value of property url
+2021-08-25 00:43:30,240  INFO [main] TestBase:35 - initializing the property file
+2021-08-25 00:43:30,240  INFO [main] TestBase:42 - property value found in the file with key asurland the value is: https://javabykiran.in/Other/thbees/
+2021-08-25 00:43:30,282  INFO [main] TestBase:13 - test case started with executionverifyFooterPageHeader
+2021-08-25 00:56:50,142  INFO [main] TestBase:45 - suit is ready to start execution
+2021-08-25 00:56:50,716  INFO [main] TestBase:56 - browser initalizing
+2021-08-25 00:56:50,716  INFO [main] TestBase:31 - Reading the value of property browser
+2021-08-25 00:56:50,716  INFO [main] TestBase:35 - initializing the property file
+2021-08-25 00:56:50,716  INFO [main] TestBase:42 - property value found in the file with key asbrowserand the value is: chrome
+2021-08-25 00:56:50,716  INFO [main] TestBase:59 - user want to automate the chrome browser
+2021-08-25 00:56:53,483  INFO [main] TestBase:79 - lunching a application
+2021-08-25 00:56:53,484  INFO [main] TestBase:31 - Reading the value of property url
+2021-08-25 00:56:53,484  INFO [main] TestBase:35 - initializing the property file
+2021-08-25 00:56:53,485  INFO [main] TestBase:42 - property value found in the file with key asurland the value is: https://javabykiran.in/Other/thbees/
+2021-08-25 00:56:56,474  INFO [main] TestBase:31 - Reading the value of property url
+2021-08-25 00:56:56,474  INFO [main] TestBase:35 - initializing the property file
+2021-08-25 00:56:56,474  INFO [main] TestBase:42 - property value found in the file with key asurland the value is: https://javabykiran.in/Other/thbees/
+2021-08-25 00:56:56,518  INFO [main] TestBase:13 - test case started with executionverifyMouseHoverFunctionalityOn_StoreInfoCols
+2021-08-25 00:57:05,194  INFO [main] TestBase:24 - test case failed with executionverifyMouseHoverFunctionalityOn_StoreInfoCols
+2021-08-25 00:57:05,195  INFO [main] TestBase:86 - user want to scrrenshot of fail test case
+2021-08-25 00:57:05,385  INFO [main] TestBase:98 - screenshot save into project directory
+2021-08-25 00:57:05,874  INFO [main] TestBase:51 - suit is finish sucessfully
+2021-08-25 22:40:12,933  INFO [main] TestBase:45 - suit is ready to start execution
+2021-08-25 22:40:13,729  INFO [main] TestBase:56 - browser initalizing
+2021-08-25 22:40:13,730  INFO [main] TestBase:31 - Reading the value of property browser
+2021-08-25 22:40:13,731  INFO [main] TestBase:35 - initializing the property file
+2021-08-25 22:40:13,732  INFO [main] TestBase:42 - property value found in the file with key asbrowserand the value is: chrome
+2021-08-25 22:40:13,733  INFO [main] TestBase:59 - user want to automate the chrome browser
+2021-08-25 22:40:21,701  INFO [main] TestBase:79 - lunching a application
+2021-08-25 22:40:21,702  INFO [main] TestBase:31 - Reading the value of property url
+2021-08-25 22:40:21,703  INFO [main] TestBase:35 - initializing the property file
+2021-08-25 22:40:21,705  INFO [main] TestBase:42 - property value found in the file with key asurland the value is: https://javabykiran.in/Other/thbees/
+2021-08-25 22:40:31,796  INFO [main] TestBase:34 - test case skipped with executionverifyClickOnElement_ourStore
+2021-08-25 22:40:31,798  INFO [main] TestBase:24 - test case failed with executionverifyClickOnElement_ourStore
+2021-08-25 22:40:31,799  INFO [main] TestBase:86 - user want to scrrenshot of fail test case
+2021-08-25 22:40:39,319  INFO [main] TestBase:51 - suit is finish sucessfully
+2021-08-26 18:06:11,655  INFO [main] TestBase:45 - suit is ready to start execution
+2021-08-26 18:06:44,572  INFO [main] TestBase:45 - suit is ready to start execution
+2021-08-26 18:06:45,067  INFO [main] TestBase:56 - browser initalizing
+2021-08-26 18:06:45,068  INFO [main] TestBase:31 - Reading the value of property browser
+2021-08-26 18:06:45,068  INFO [main] TestBase:35 - initializing the property file
+2021-08-26 18:06:45,069  INFO [main] TestBase:42 - property value found in the file with key asbrowserand the value is: chrome
+2021-08-26 18:06:45,070  INFO [main] TestBase:59 - user want to automate the chrome browser
+2021-08-26 18:06:51,599  INFO [main] TestBase:79 - lunching a application
+2021-08-26 18:06:51,599  INFO [main] TestBase:31 - Reading the value of property url
+2021-08-26 18:06:51,600  INFO [main] TestBase:35 - initializing the property file
+2021-08-26 18:06:51,600  INFO [main] TestBase:42 - property value found in the file with key asurland the value is: https://javabykiran.in/Other/thbees/
+2021-08-26 18:07:00,778  INFO [main] TestBase:31 - Reading the value of property url
+2021-08-26 18:07:00,778  INFO [main] TestBase:35 - initializing the property file
+2021-08-26 18:07:00,779  INFO [main] TestBase:42 - property value found in the file with key asurland the value is: https://javabykiran.in/Other/thbees/
+2021-08-26 18:07:00,830  INFO [main] TestBase:13 - test case started with executioncheckAlreadyRegister_newsletter
+2021-08-26 18:07:18,061  INFO [main] TestBase:45 - suit is ready to start execution
+2021-08-26 18:07:18,414  INFO [main] TestBase:56 - browser initalizing
+2021-08-26 18:07:18,414  INFO [main] TestBase:31 - Reading the value of property browser
+2021-08-26 18:07:18,414  INFO [main] TestBase:35 - initializing the property file
+2021-08-26 18:07:18,415  INFO [main] TestBase:42 - property value found in the file with key asbrowserand the value is: chrome
+2021-08-26 18:07:18,415  INFO [main] TestBase:59 - user want to automate the chrome browser
+2021-08-26 18:07:21,296  INFO [main] TestBase:79 - lunching a application
+2021-08-26 18:07:21,297  INFO [main] TestBase:31 - Reading the value of property url
+2021-08-26 18:07:21,298  INFO [main] TestBase:35 - initializing the property file
+2021-08-26 18:07:21,298  INFO [main] TestBase:42 - property value found in the file with key asurland the value is: https://javabykiran.in/Other/thbees/
+2021-08-26 18:07:24,370  INFO [main] TestBase:31 - Reading the value of property url
+2021-08-26 18:07:24,371  INFO [main] TestBase:35 - initializing the property file
+2021-08-26 18:07:24,371  INFO [main] TestBase:42 - property value found in the file with key asurland the value is: https://javabykiran.in/Other/thbees/
+2021-08-26 18:07:24,418  INFO [main] TestBase:13 - test case started with executioncheckNewRegistration_newsletter

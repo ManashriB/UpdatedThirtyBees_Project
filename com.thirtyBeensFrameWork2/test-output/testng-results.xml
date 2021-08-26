@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="18" total="19" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="7167" started-at="2021-08-26T12:37:18Z" finished-at="2021-08-26T12:37:25Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="7167" started-at="2021-08-26T12:37:18Z" finished-at="2021-08-26T12:37:25Z">
+      <class name="thirtybees.Test.footerTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:thirtybees.Test.footerTest@7b49cea0]" name="setUp" is-config="true" duration-ms="6328" started-at="2021-08-26T12:37:18Z" finished-at="2021-08-26T12:37:24Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="checkNewRegistration_newsletter()[pri:19, instance:thirtybees.Test.footerTest@7b49cea0]" name="checkNewRegistration_newsletter" duration-ms="792" started-at="2021-08-26T12:37:24Z" finished-at="2021-08-26T12:37:25Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkNewRegistration_newsletter -->
+      </class> <!-- thirtybees.Test.footerTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
